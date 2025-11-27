@@ -20,8 +20,7 @@
         "accent": "system_accent1_300",
         "input_background": -16777216,
         "blocked_bg": "system_neutral2_100",
-        "statusbar": -16777216,
-        "mention_highlight": "system_neutral2_600"
+        "statusbar": -16777216
     },
     "colors": {
         "primary_dark_600": -16777216,
