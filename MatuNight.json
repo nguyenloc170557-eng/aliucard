@@ -3,7 +3,7 @@
         "author": "Zoey",
         "name": "MatuNight",
         "version": "1.0.0",
-        "updater": 
+        "updater": "https://github.com/vicefriedrice/MatuNight/raw/refs/heads/main/MatuNight.json"
     },
     "background": {},
     "fonts": {
