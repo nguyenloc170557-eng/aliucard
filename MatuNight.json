@@ -1,0 +1,60 @@
+{
+    "manifest": {
+        "author": "Zoey",
+        "name": "MatuNight",
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/vicefriedrice\/themes\/refs\/heads\/main\/MatuNight.json"
+    },
+    "background": {},
+    "fonts": {
+        "ginto_bold": "https:\/\/github.com\/vicefriedrice\/fonts\/raw\/refs\/heads\/main\/Roboto-Bold.ttf",
+        "ginto_medium": "https:\/\/github.com\/vicefriedrice\/fonts\/raw\/refs\/heads\/main\/Roboto-Medium.ttf",
+        "ginto_regular": "https:\/\/github.com\/vicefriedrice\/fonts\/raw\/refs\/heads\/main\/Roboto-Regular.ttf",
+        "roboto_medium_numbers": "https:\/\/github.com\/vicefriedrice\/fonts\/raw\/refs\/heads\/main\/Roboto-Medium.ttf",
+        "sourcecodepro_semibold": "https:\/\/github.com\/vicefriedrice\/fonts\/raw\/refs\/heads\/main\/Roboto-SemiBold.ttf",
+        "whitney_bold": "https:\/\/github.com\/vicefriedrice\/fonts\/raw\/refs\/heads\/main\/Roboto-Bold.ttf",
+        "whitney_medium": "https:\/\/github.com\/vicefriedrice\/fonts\/raw\/refs\/heads\/main\/Roboto-Medium.ttf",
+        "whitney_semibold": "https:\/\/github.com\/vicefriedrice\/fonts\/raw\/refs\/heads\/main\/Roboto-SemiBold.ttf"
+    },
+    "simple_colors": {
+        "accent": "system_accent1_300",
+        "input_background": -16777216,
+        "blocked_bg": "system_neutral2_100",
+        "statusbar": -16777216,
+        "mention_highlight": "system_neutral2_600"
+    },
+    "colors": {
+        "primary_dark_600": -16777216,
+        "white_500": "system_accent3_50",
+        "primary_dark_630": -16777216,
+        "primary_700": -16777216,
+        "primary_dark_700": -16777216,
+        "status_grey_130": "system_accent2_100",
+        "primary_dark_800": -16777216,
+        "primary_dark_660": -16777216,
+        "status_grey_160": "system_accent2_100",
+        "status_grey_200": "system_accent1_50",
+        "status_grey_600": "system_neutral2_900",
+        "status_grey_630": "system_neutral2_600",
+        "brand_500_alpha_20": "system_accent1_200",
+        "uikit_settings_item_text_color_light": "system_neutral2_600",
+        "brand_new_230": "system_accent1_300",
+        "brand_new_630": "system_accent2_300",
+        "primary_dark_300": "system_neutral2_100",
+        "primary_dark_400": "system_neutral2_200",
+        "primary_dark_360": "system_neutral1_200"
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_selected_dark": "system_neutral2_800",
+        "drawable_overlay_channels_selected_light": "system_accent1_50",
+        "drawable_overlay_channels_active_dark": "system_neutral2_800",
+        "drawable_overlay_channels_active_light": "system_accent1_50",
+        "ic_sidebar_pins_off_dark_24dp": "system_neutral2_100",
+        "ic_flex_input_create_thread_24dp_dark": -2490290,
+        "ic_sidebar_notifications_off_dark_24dp": "system_accent1_300",
+        "ic_sidebar_notifications_on_dark_24dp": "system_neutral2_100",
+        "ic_thread": "system_neutral2_100",
+        "ic_channel_text": "system_neutral2_600"
+    },
+    "raws": {}
+}
