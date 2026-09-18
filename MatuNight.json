@@ -5,7 +5,9 @@
         "version": "1.0.0",
         "updater": "https://github.com/vicefriedrice/MatuNight/raw/refs/heads/main/MatuNight.json"
     },
-    "background": {},
+    "background": {
+        "url": "https://raw.githubusercontent.com/vendicateddev/Foggy-Mountains/refs/heads/main/FoggyMountains.png",
+    "overlay_alpha": 90
     "fonts": {
         "ginto_bold": "https:\/\/github.com\/vicefriedrice\/fonts\/raw\/refs\/heads\/main\/Roboto-Bold.ttf",
         "ginto_medium": "https:\/\/github.com\/vicefriedrice\/fonts\/raw\/refs\/heads\/main\/Roboto-Medium.ttf",
